@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /opt/ANDRAX/sqlmap
+
+python3 /opt/ANDRAX/sqlmap/sqlmapapi.py "$@"
